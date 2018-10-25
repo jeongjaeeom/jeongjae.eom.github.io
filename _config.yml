@@ -20,9 +20,9 @@ title                    : "Jeongjae's blog"
 title_separator          : "-"
 name                     : "Eom Jeongjae"
 description              : "Jeongjae's personal website."
-url                      : "https://jeongjae.eom.github.io"
+url                      : "https://jeongjaeeom.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jeongjaeeom/jeongjae.eom.github.io"
+repository               : "jeongjaeeom/jeongjaeeom.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -112,7 +112,7 @@ author:
       url: mailto:jeongjae.eom@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jeongjae.eom.github.io"
+      url: "https://jeongjaeeom.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
